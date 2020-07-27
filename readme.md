@@ -1,10 +1,13 @@
-#### realworld nuxtjs 实现版本
+# realworld-nuxtjs
+
+#### 介绍
+
+realworld 的 Nuxt.js 版本。项目中包含使用 Nuxt.js开发同构渲染应用时 路由、状态管理等常见使用方法。
 
 ## Project setup
 
 ```
 npm install
-
 ```
 
 ### dev
@@ -52,8 +55,7 @@ NuxtJs-Jwt: https://zh.nuxtjs.org/examples/auth-external-jwt // 跨域身份验�
 
 NuxtJs-Jwt-online-examples: https://codesandbox.io/s/github/nuxt/nuxt.js/tree/dev/examples/auth-jwt?from-embed // 跨域身份验证 (JWT) 代码示例
 
-NuxtJs-auth: https://zh.nuxtjs.org/guide/routing#%E4%B8%AD%E9%97%B4%E4%BB%B6 // 未登录时，访问登录才能访问的页面，跳转到首页
-
+NuxtJs-auth: https://zh.nuxtjs.org/guide/routing#%E4%B8%AD%E9%97%B4%E4%BB%B6 // 实现 未登录时，访问登录才能访问的页面，跳转到登录页
 ```
 
 #### 剩余实现
